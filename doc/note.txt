@@ -6,3 +6,8 @@ Documentation : Please find attached html file “LetKnowDoc”
 3. PayOps https://payop.com/en
 Documentation: https://github.com/Payop/payop-api-doc
 Accept payments online by 150+ methods from 170+ countries.
+
+JWT Token PayOps: 
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6OTEzNjcsInRpbWUiOjE2OTUwMjE3MzEsInR3b0ZhY3RvciI6eyJwYXNzZWQiOnRydWV9LCJ0b2tlbklkIjozNDc2LCJleHBpcmVkQXQiOm51bGwsInJvbGUiOjEsImFjY2Vzc1Rva2VuIjoiNWQ2MTAxMTM5ZjAwNGFmOGU4MWE3N2UyIn0.Sisd6U2iANNKlEJZaLCyS1H-uL6N6G1ERjADRDWTrZ4"
+}
