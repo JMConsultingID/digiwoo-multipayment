@@ -16,12 +16,12 @@ add_action('admin_menu', 'digiwoo_multipayment_menu');
 function digiwoo_multipayment_menu() {
     add_menu_page(
         'MultiPayment', // Page title
-        'DigiWoo Payment', // Menu title
+        'MultiPayment', // Menu title
         'manage_options', // Capability - making it available only for admins
         'digiwoo-multipayment', // Menu slug
         'digiwoo_multipayment_options_page', // Function to call when the page is loaded
         'dashicons-money', // Icon URL (using a WP core dashicon)
-        53 // Position in the menu
+        56 // Position in the menu
     );
 }
 
