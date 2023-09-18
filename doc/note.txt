@@ -1,0 +1,8 @@
+1. Sqala Pix QR Code (https://sqala.tech/):
+Documentation: https://sqala.readme.io/reference/pix
+Pix is an instant payment platform created and managed by the monetary authority of Brazil, the Central Bank of Brazil, which enables the quick execution of payments and transfers.
+2. Let Know(Cryptocurrency Gateway) :
+Documentation : Please find attached html file “LetKnowDoc”
+3. PayOps https://payop.com/en
+Documentation: https://github.com/Payop/payop-api-doc
+Accept payments online by 150+ methods from 170+ countries.
