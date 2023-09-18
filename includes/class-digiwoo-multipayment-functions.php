@@ -21,7 +21,7 @@ function digiwoo_multipayment_menu() {
         'digiwoo-multipayment', // Menu slug
         'digiwoo_multipayment_options_page', // Function to call when the page is loaded
         'dashicons-money', // Icon URL (using a WP core dashicon)
-        20 // Position in the menu
+        30 // Position in the menu
     );
 }
 
